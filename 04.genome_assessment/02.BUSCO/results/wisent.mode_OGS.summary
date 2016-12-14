@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: ../08.finalAnnotation.combine_orthomcl_busco/wisent.cds.pep
+#BUSCO was run in mode: OGS
+
+Summarized benchmarks in BUSCO notation:
+	C:96%[D:2.5%],F:2.2%,M:1.0%,n:3023
+
+	2924	Complete BUSCOs
+	2846	Complete and single-copy BUSCOs
+	78	Complete and duplicated BUSCOs
+	67	Fragmented BUSCOs
+	32	Missing BUSCOs
+	3023	Total BUSCO groups searched

@@ -1,0 +1,232 @@
+READING READS lib1:
+------------------------------------------------------------
+	Total inserted pairs = 115092587 
+------------------------------------------------------------
+
+READING READS lib2:
+------------------------------------------------------------
+	Total inserted pairs = 159944696 
+------------------------------------------------------------
+
+READING READS lib3:
+------------------------------------------------------------
+	Total inserted pairs = 162338990 
+------------------------------------------------------------
+
+READING READS lib4:
+------------------------------------------------------------
+	Total inserted pairs = 138865184 
+------------------------------------------------------------
+
+READING READS lib5:
+------------------------------------------------------------
+	Total inserted pairs = 167407360 
+------------------------------------------------------------
+
+
+
+LIBRARY lib1 STATS:
+################################################################################
+READ PAIRS STATS:
+	Assembled pairs: 0 (0 sequences)
+		Satisfied in distance/logic within contigs (i.e. -> <-, distance on target: 170 +/-42.5): 0
+		Unsatisfied in distance within contigs (i.e. distance out-of-bounds): 0
+		Unsatisfied pairing logic within contigs (i.e. illogical pairing ->->, <-<- or <-->): 0
+		---
+		Satisfied in distance/logic within a given contig pair (pre-scaffold): 10239
+		Unsatisfied in distance within a given contig pair (i.e. calculated distances out-of-bounds): 508268
+		---
+	Total satisfied: 10239	unsatisfied: 508268
+
+
+	Estimated insert size statistics (based on 0 pairs): 
+		Mean insert size = 0
+		Median insert size = 0
+
+REPEATS: 
+	Number of repeated edges = 9
+------------------------------------------------------------
+
+################################################################################
+
+
+LIBRARY lib2 STATS:
+################################################################################
+READ PAIRS STATS:
+	Assembled pairs: 0 (0 sequences)
+		Satisfied in distance/logic within contigs (i.e. -> <-, distance on target: 2000 +/-1000): 989
+		Unsatisfied in distance within contigs (i.e. distance out-of-bounds): 527
+		Unsatisfied pairing logic within contigs (i.e. illogical pairing ->->, <-<- or <-->): 1832
+		---
+		Satisfied in distance/logic within a given contig pair (pre-scaffold): 6140529
+		Unsatisfied in distance within a given contig pair (i.e. calculated distances out-of-bounds): 3510889
+		---
+	Total satisfied: 6141518	unsatisfied: 3513248
+
+
+	Estimated insert size statistics (based on 989 pairs): 
+		Mean insert size = 1543
+		Median insert size = 1404
+
+REPEATS: 
+	Number of repeated edges = 6891
+------------------------------------------------------------
+
+################################################################################
+
+
+LIBRARY lib3 STATS:
+################################################################################
+READ PAIRS STATS:
+	Assembled pairs: 0 (0 sequences)
+		Satisfied in distance/logic within contigs (i.e. -> <-, distance on target: 5000 +/-2500): 465714
+		Unsatisfied in distance within contigs (i.e. distance out-of-bounds): 7531
+		Unsatisfied pairing logic within contigs (i.e. illogical pairing ->->, <-<- or <-->): 14310
+		---
+		Satisfied in distance/logic within a given contig pair (pre-scaffold): 2082582
+		Unsatisfied in distance within a given contig pair (i.e. calculated distances out-of-bounds): 1502514
+		---
+	Total satisfied: 2548296	unsatisfied: 1524355
+
+
+	Estimated insert size statistics (based on 465714 pairs): 
+		Mean insert size = 5021
+		Median insert size = 5059
+
+REPEATS: 
+	Number of repeated edges = 5665
+------------------------------------------------------------
+
+################################################################################
+
+
+LIBRARY lib4 STATS:
+################################################################################
+READ PAIRS STATS:
+	Assembled pairs: 0 (0 sequences)
+		Satisfied in distance/logic within contigs (i.e. -> <-, distance on target: 10000 +/-5000): 133188
+		Unsatisfied in distance within contigs (i.e. distance out-of-bounds): 49298
+		Unsatisfied pairing logic within contigs (i.e. illogical pairing ->->, <-<- or <-->): 11037
+		---
+		Satisfied in distance/logic within a given contig pair (pre-scaffold): 491767
+		Unsatisfied in distance within a given contig pair (i.e. calculated distances out-of-bounds): 258544
+		---
+	Total satisfied: 624955	unsatisfied: 318879
+
+
+	Estimated insert size statistics (based on 133188 pairs): 
+		Mean insert size = 10182
+		Median insert size = 10499
+
+REPEATS: 
+	Number of repeated edges = 2303
+------------------------------------------------------------
+
+################################################################################
+
+
+LIBRARY lib5 STATS:
+################################################################################
+READ PAIRS STATS:
+	Assembled pairs: 0 (0 sequences)
+		Satisfied in distance/logic within contigs (i.e. -> <-, distance on target: 20000 +/-10000): 50341
+		Unsatisfied in distance within contigs (i.e. distance out-of-bounds): 5784
+		Unsatisfied pairing logic within contigs (i.e. illogical pairing ->->, <-<- or <-->): 7041
+		---
+		Satisfied in distance/logic within a given contig pair (pre-scaffold): 146641
+		Unsatisfied in distance within a given contig pair (i.e. calculated distances out-of-bounds): 125994
+		---
+	Total satisfied: 196982	unsatisfied: 138819
+
+
+	Estimated insert size statistics (based on 50341 pairs): 
+		Mean insert size = 17872
+		Median insert size = 17911
+
+REPEATS: 
+	Number of repeated edges = 242
+------------------------------------------------------------
+
+################################################################################
+
+SUMMARY: 
+------------------------------------------------------------
+	Inserted contig file;
+		Total number of contigs = 276036
+		Sum (bp) = 2440848532
+			Total number of N's = 44395337
+			Sum (bp) no N's = 2396453195
+		GC Content = 41.68%
+		Max contig size = 214095
+		Min contig size = 500
+		Average contig size = 8842
+		N25 = 29379
+		N50 = 16472
+		N75 = 8459
+
+	After scaffolding lib1:
+		Total number of scaffolds = 275979
+		Sum (bp) = 2440848034
+			Total number of N's = 44395383
+			Sum (bp) no N's = 2396452651
+		GC Content = 41.68%
+		Max scaffold size = 214095
+		Min scaffold size = 500
+		Average scaffold size = 8844
+		N25 = 29381
+		N50 = 16473
+		N75 = 8460
+
+	After scaffolding lib2:
+		Total number of scaffolds = 84316
+		Sum (bp) = 2482214565
+			Total number of N's = 86739900
+			Sum (bp) no N's = 2395474665
+		GC Content = 41.66%
+		Max scaffold size = 1529186
+		Min scaffold size = 500
+		Average scaffold size = 29439
+		N25 = 177229
+		N50 = 93417
+		N75 = 43997
+
+	After scaffolding lib3:
+		Total number of scaffolds = 40565
+		Sum (bp) = 2539946460
+			Total number of N's = 145644818
+			Sum (bp) no N's = 2394301642
+		GC Content = 41.64%
+		Max scaffold size = 5921021
+		Min scaffold size = 500
+		Average scaffold size = 62614
+		N25 = 956264
+		N50 = 503076
+		N75 = 229027
+
+	After scaffolding lib4:
+		Total number of scaffolds = 31880
+		Sum (bp) = 2562129876
+			Total number of N's = 168189675
+			Sum (bp) no N's = 2393940201
+		GC Content = 41.64%
+		Max scaffold size = 9736302
+		Min scaffold size = 500
+		Average scaffold size = 80367
+		N25 = 2498617
+		N50 = 1400606
+		N75 = 661390
+
+	After scaffolding lib5:
+		Total number of scaffolds = 29074
+		Sum (bp) = 2576549422
+			Total number of N's = 182643872
+			Sum (bp) no N's = 2393905550
+		GC Content = 41.63%
+		Max scaffold size = 31653177
+		Min scaffold size = 500
+		Average scaffold size = 88620
+		N25 = 8057465
+		N50 = 4694011
+		N75 = 2122805
+
+------------------------------------------------------------

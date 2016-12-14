@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: cattle.all.pep
+#BUSCO was run in mode: OGS
+
+Summarized benchmarks in BUSCO notation:
+	C:97%[D:7.5%],F:1.6%,M:0.5%,n:3023
+
+	2957	Complete BUSCOs
+	2728	Complete and single-copy BUSCOs
+	229	Complete and duplicated BUSCOs
+	49	Fragmented BUSCOs
+	17	Missing BUSCOs
+	3023	Total BUSCO groups searched

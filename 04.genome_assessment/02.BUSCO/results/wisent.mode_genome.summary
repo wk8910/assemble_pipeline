@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: wisent.fa
+#BUSCO was run in mode: genome
+
+Summarized benchmarks in BUSCO notation:
+	C:85%[D:1.8%],F:9.6%,M:5.0%,n:3023
+
+	2577	Complete BUSCOs
+	2522	Complete and single-copy BUSCOs
+	55	Complete and duplicated BUSCOs
+	292	Fragmented BUSCOs
+	154	Missing BUSCOs
+	3023	Total BUSCO groups searched

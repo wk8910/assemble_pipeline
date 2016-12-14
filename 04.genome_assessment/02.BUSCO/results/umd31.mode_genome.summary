@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: umd31.fa
+#BUSCO was run in mode: genome
+
+Summarized benchmarks in BUSCO notation:
+	C:81%[D:1.8%],F:12%,M:5.4%,n:3023
+
+	2471	Complete BUSCOs
+	2416	Complete and single-copy BUSCOs
+	55	Complete and duplicated BUSCOs
+	388	Fragmented BUSCOs
+	164	Missing BUSCOs
+	3023	Total BUSCO groups searched

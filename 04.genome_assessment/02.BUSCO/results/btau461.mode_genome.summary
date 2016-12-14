@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: btau461.fa
+#BUSCO was run in mode: genome
+
+Summarized benchmarks in BUSCO notation:
+	C:78%[D:1.9%],F:12%,M:8.5%,n:3023
+
+	2380	Complete BUSCOs
+	2321	Complete and single-copy BUSCOs
+	59	Complete and duplicated BUSCOs
+	385	Fragmented BUSCOs
+	258	Missing BUSCOs
+	3023	Total BUSCO groups searched

@@ -1,0 +1,126 @@
+Program start..
+Program:	Corrector_HA
+Version:	v2.02
+Author:		BGI-ShenZhen
+CompileDate:	Apr 15 2014 time: 15:20:05
+Current time:	Mon Apr 21 05:54:28 2014
+Command line:	Corrector_HA -k 23 -l 3 -r 50 -t 10 Wisent.freq.gz read.lst
+
+Start to caculate high-freq kmer species number...
+Finish caculation. The number of kmer species which frequency higher than 3 is: 2131784643
+Run time: 2919s.
+
+Start to load the kmer frequency table...
+Finish loading the kmer frequency table!
+KmerSize 23
+Kmer_species_num 5698293539
+Low_freq_kmer_ratio 0.625891
+Run time: 6267s.
+10 threads creation done!
+
+Finished to parse file ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L3_WHAXPI000090-15_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L3_WHAXPI000090-15_2.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L4_WHAXPI000090-15_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L4_WHAXPI000090-15_2.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L1_WHAIPI000089-13_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L1_WHAIPI000089-13_2.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L2_WHAIPI000089-13_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L2_WHAIPI000089-13_2.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/500bp/140220_I191_FCC3R2PACXX_L2_WHAIPI000089-13_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/500bp/140220_I191_FCC3R2PACXX_L2_WHAIPI000089-13_2.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L6_WHAMPI000088-14_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L6_WHAMPI000088-14_2.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L7_WHAMPI000088-14_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L7_WHAMPI000088-14_2.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L7_WHAMPI000088-14_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L7_WHAMPI000088-14_2.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L8_WHAMPI000088-14_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L8_WHAMPI000088-14_2.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140220_I191_FCC3R2PACXX_L2_WHAMPI000088-14_1.fq.gz
+
+10 threads creation done!
+
+Finished to parse file ../SeqV2/800bp/140220_I191_FCC3R2PACXX_L2_WHAMPI000088-14_2.fq.gz
+
+Parsed all the reads files completed
+Run time: 72053s.
+Start to convert ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L7_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L7_WHAMPI000088-14_2.fq.gz.cor
+Start to convert ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L6_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L6_WHAMPI000088-14_2.fq.gz.cor
+Start to convert ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L7_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L7_WHAMPI000088-14_2.fq.gz.cor
+Start to convert ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L2_WHAIPI000089-13_1.fq.gz.cor & ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L2_WHAIPI000089-13_2.fq.gz.cor
+Start to convert ../SeqV2/500bp/140220_I191_FCC3R2PACXX_L2_WHAIPI000089-13_1.fq.gz.cor & ../SeqV2/500bp/140220_I191_FCC3R2PACXX_L2_WHAIPI000089-13_2.fq.gz.cor
+Start to convert ../SeqV2/800bp/140220_I191_FCC3R2PACXX_L2_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140220_I191_FCC3R2PACXX_L2_WHAMPI000088-14_2.fq.gz.cor
+Start to convert ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L4_WHAXPI000090-15_1.fq.gz.cor & ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L4_WHAXPI000090-15_2.fq.gz.cor
+Start to convert ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L1_WHAIPI000089-13_1.fq.gz.cor & ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L1_WHAIPI000089-13_2.fq.gz.cor
+Start to convert ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L8_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L8_WHAMPI000088-14_2.fq.gz.cor
+Start to convert ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L3_WHAXPI000090-15_1.fq.gz.cor & ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L3_WHAXPI000090-15_2.fq.gz.cor
+Finished to convert ../SeqV2/800bp/140220_I191_FCC3R2PACXX_L2_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140220_I191_FCC3R2PACXX_L2_WHAMPI000088-14_2.fq.gz.cor
+Finished to convert ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L8_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L8_WHAMPI000088-14_2.fq.gz.cor
+Finished to convert ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L7_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140104_I686_FCC3R25ACXX_L7_WHAMPI000088-14_2.fq.gz.cor
+Finished to convert ../SeqV2/500bp/140220_I191_FCC3R2PACXX_L2_WHAIPI000089-13_1.fq.gz.cor & ../SeqV2/500bp/140220_I191_FCC3R2PACXX_L2_WHAIPI000089-13_2.fq.gz.cor
+Finished to convert ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L7_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L7_WHAMPI000088-14_2.fq.gz.cor
+Finished to convert ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L6_WHAMPI000088-14_1.fq.gz.cor & ../SeqV2/800bp/140104_I686_FCC3HWYACXX_L6_WHAMPI000088-14_2.fq.gz.cor
+Finished to convert ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L1_WHAIPI000089-13_1.fq.gz.cor & ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L1_WHAIPI000089-13_2.fq.gz.cor
+Finished to convert ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L2_WHAIPI000089-13_1.fq.gz.cor & ../SeqV2/500bp/140104_I686_FCC3R25ACXX_L2_WHAIPI000089-13_2.fq.gz.cor
+Finished to convert ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L4_WHAXPI000090-15_1.fq.gz.cor & ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L4_WHAXPI000090-15_2.fq.gz.cor
+Finished to convert ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L3_WHAXPI000090-15_1.fq.gz.cor & ../SeqV2/200bp/140104_I686_FCC3R25ACXX_L3_WHAXPI000090-15_2.fq.gz.cor
+Convert all the paired reads files completed
+Run time: 88250s.
+Begin output the QC file...
+Finished output QC file!
+All done!
+Run time: 88250s.

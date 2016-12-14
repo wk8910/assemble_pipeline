@@ -1,0 +1,12 @@
+#Summarized BUSCO benchmarking for file: yak.pep
+#BUSCO was run in mode: OGS
+
+Summarized benchmarks in BUSCO notation:
+	C:97%[D:1.9%],F:1.7%,M:0.9%,n:3023
+
+	2939	Complete BUSCOs
+	2881	Complete and single-copy BUSCOs
+	58	Complete and duplicated BUSCOs
+	54	Fragmented BUSCOs
+	30	Missing BUSCOs
+	3023	Total BUSCO groups searched

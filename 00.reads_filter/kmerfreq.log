@@ -1,0 +1,20 @@
+Program start..
+Program:	KmerFreq_HA
+Version:	v2.02
+Author:		BGI-ShenZhen
+CompileDate:	Apr 15 2014 time: 15:19:53
+Current time:	Sun Apr 20 22:30:05 2014
+Command line:	KmerFreq_HA -k 23 -t 64 -p Wisent -l read.lst -L 100
+Start to construct kmer-freq table...
+64 threads created!
+Waiting for threads to exit...
+All threads finished!
+Used time: 217.433 minutes.
+Finish kmer-freq table construction!
+Used time: 444.367mins.
+
+Start to analysis the result...
+
+All done! Used time: 444.367mins.
+Thank you!
+
